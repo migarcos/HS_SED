@@ -1,0 +1,2 @@
+jkahsdfhasdjljhasdhAN EXPLANATION ABOUT THE FUNCTION OF SCRIPT
+
