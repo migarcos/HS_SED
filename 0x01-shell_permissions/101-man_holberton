@@ -1,17 +1,16 @@
 .TH man 2 "4 may 2015" "ver. 3.2" "HOLBERTON MAN PAGE"
-
 .SH NAME
-Holberton - become a full-stack
+Holberton - become a full-stack software engineer
 .SH SYNOPSYS
 holberton [STUDENTNAME]
 .SH DESCRIPTION
-A practical form to create a manual an a first time to linux using CLI
+A practical form to create a manual an a first time to linux using CLI.
 .SH OPTIONS
-
+There is not options to work with this material
 .SH SEE ALSO
-.I addInfo1, urlInfo2, urlInfo3
+.I -addInformation1-, -urlInformation2-, -urlInformation3-
 .SH BUGS
-No one bugs
+No one bugs and don try do look for to one OK!(IfYouTryShouldBeAVictimOfCovid19)
 .SH AUTHOR
-PHD. Miguel Arcos Salazar - Computer Sciences Engineer - Ms Data Sciences
+PHD. Miguel Arcos Salazar - Computer Sciences Engineer - Magister Data Sciences, Master  Universe-------------------------------------
 
